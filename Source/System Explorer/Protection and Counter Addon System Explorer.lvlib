@@ -49,6 +49,7 @@
 				<Item Name="Status Channel.vi" Type="VI" URL="../Pages/Status Channel.vi"/>
 			</Item>
 			<Item Name="RTMs" Type="Folder">
+				<Item Name="Create Information Channels.vi" Type="VI" URL="../RTMs/Create Information Channels.vi"/>
 				<Item Name="EnableDisable Main Page.vi" Type="VI" URL="../RTMs/EnableDisable Main Page.vi"/>
 				<Item Name="Make Counter Signal.vi" Type="VI" URL="../RTMs/Make Counter Signal.vi"/>
 				<Item Name="Make Protection Signal.vi" Type="VI" URL="../RTMs/Make Protection Signal.vi"/>
@@ -63,6 +64,7 @@
 			<Item Name="986x.Create.vi" Type="VI" URL="../SubVIs/986x.Create.vi"/>
 			<Item Name="986x.Export.vi" Type="VI" URL="../SubVIs/986x.Export.vi"/>
 			<Item Name="Add Database to SysDef.vi" Type="VI" URL="../SubVIs/Add Database to SysDef.vi"/>
+			<Item Name="Add Information Channels.vi" Type="VI" URL="../SubVIs/Add Information Channels.vi"/>
 			<Item Name="Browse for XNET Database.vi" Type="VI" URL="../SubVIs/Browse for XNET Database.vi"/>
 			<Item Name="Compile and Export Settings.vi" Type="VI" URL="../SubVIs/Compile and Export Settings.vi"/>
 			<Item Name="Defer Front Panel Updates.vi" Type="VI" URL="../SubVIs/Defer Front Panel Updates.vi"/>
