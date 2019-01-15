@@ -736,10 +736,51 @@
       </RunTimeMenu>
     </Page>
      
-    <!--End of Adding Information Channel Pages-->  
-    
-      
-     <Page>
+    <!--End of Adding Information Channel Pages-->
+
+
+    <!-- Adding pages for new Incoming channels -->
+    <Page>
+      <Name>
+        <eng>Counter Valid</eng>
+        <loc>Counter Valid</loc>
+      </Name>
+      <DisallowRenaming>true</DisallowRenaming>
+      <DeleteProtection>true</DeleteProtection>
+      <ExcludeFromAlphabeticalOrder>true</ExcludeFromAlphabeticalOrder>
+      <GUID>afb8a5df-af0a-415b-a4a9-80e19e724a73</GUID>
+      <Glyph>
+        <Type>To Application Data Dir</Type>
+        <Path>System Explorer\Glyphs\channel.png</Path>
+      </Glyph>
+      <Item2Launch>
+        <Type>To Common Doc Dir</Type>
+        <Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Signal Page.vi</Path>
+      </Item2Launch>
+    </Page>
+
+    <Page>
+      <Name>
+        <eng>Protection Valid</eng>
+        <loc>Protection Valid</loc>
+      </Name>
+      <DisallowRenaming>true</DisallowRenaming>
+      <DeleteProtection>true</DeleteProtection>
+      <ExcludeFromAlphabeticalOrder>true</ExcludeFromAlphabeticalOrder>
+      <GUID>4d205a57-60cc-4efa-a0ca-6814bbbf829a</GUID>
+      <Glyph>
+        <Type>To Application Data Dir</Type>
+        <Path>System Explorer\Glyphs\channel.png</Path>
+      </Glyph>
+      <Item2Launch>
+        <Type>To Common Doc Dir</Type>
+        <Path>Custom Devices\Protection and Counter Addon\Windows\Protection and Counter Addon Configuration.llb\Signal Page.vi</Path>
+      </Item2Launch>
+    </Page>
+
+    <!--End of Adding pages for new Incoming channels-->
+
+    <Page>
       <Name>
         <eng>Outgoing Frame</eng>
         <loc>Outgoing Frame</loc>
