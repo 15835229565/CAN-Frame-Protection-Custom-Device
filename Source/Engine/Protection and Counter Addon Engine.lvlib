@@ -41,8 +41,12 @@
 			<Item Name="Calculate Counter And Protections.vi" Type="VI" URL="../SubVIs/Calculate Counter And Protections.vi"/>
 			<Item Name="Close XNET References.vi" Type="VI" URL="../SubVIs/Close XNET References.vi"/>
 			<Item Name="Initialize Generate.vi" Type="VI" URL="../SubVIs/Initialize Generate.vi"/>
+			<Item Name="Initialize Incoming.vi" Type="VI" URL="../SubVIs/Initialize Incoming.vi"/>
+			<Item Name="Process Incoming Frames.vi" Type="VI" URL="../SubVIs/Process Incoming Frames.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
+			<Item Name="Incoming Frame Info.ctl" Type="VI" URL="../../../../../Users/Public/Documents/National Instruments/NI VeriStand 2015/Projects/Delete_Test_PaC_Incoming/LabVIEW/Incoming Frame Info.ctl"/>
+			<Item Name="Incoming Frame Variables.ctl" Type="VI" URL="../Types/Incoming Frame Variables.ctl"/>
 			<Item Name="RT Async Engine Variables.ctl" Type="VI" URL="../Types/RT Async Engine Variables.ctl"/>
 			<Item Name="RT Data References.ctl" Type="VI" URL="../Types/RT Data References.ctl"/>
 		</Item>
@@ -50,6 +54,5 @@
 	<Item Name="Processes" Type="Folder">
 		<Item Name="AsyncEngine.CANProtectionAndCounter.vi" Type="VI" URL="../Processes/AsyncEngine.CANProtectionAndCounter.vi"/>
 	</Item>
-	<Item Name="Initialize Incoming.vi" Type="VI" URL="../SubVIs/Initialize Incoming.vi"/>
 	<Item Name="RT Driver VI.vi" Type="VI" URL="../RT Driver VI.vi"/>
 </Library>

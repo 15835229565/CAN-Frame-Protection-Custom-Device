@@ -31,7 +31,6 @@
 			<Item Name="LLB Pre-Build CHM Build.vi" Type="VI" URL="../Utility/LLB Pre-Build CHM Build.vi"/>
 		</Item>
 		<Item Name="Custom Device Protection and Counter Addon.xml" Type="Document" URL="../Custom Device Protection and Counter Addon.xml"/>
-		<Item Name="Incoming Frame Variables.ctl" Type="VI" URL="../Engine/Types/Incoming Frame Variables.ctl"/>
 		<Item Name="Protection and Counter Addon Engine.lvlib" Type="Library" URL="../Engine/Protection and Counter Addon Engine.lvlib"/>
 		<Item Name="Protection and Counter Addon Shared.lvlib" Type="Library" URL="../Shared/Protection and Counter Addon Shared.lvlib"/>
 		<Item Name="Protection and Counter Addon System Explorer.lvlib" Type="Library" URL="../System Explorer/Protection and Counter Addon System Explorer.lvlib"/>
@@ -197,7 +196,6 @@
 				<Item Name="XNET Write (State LIN Schedule Change).vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Write (State LIN Schedule Change).vi"/>
 				<Item Name="XNET Write.vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Write.vi"/>
 			</Item>
-			<Item Name="Incoming Frame Info.ctl" Type="VI" URL="../../../../Users/Public/Documents/National Instruments/NI VeriStand 2015/Projects/Delete_Test_PaC_Incoming/LabVIEW/Incoming Frame Info.ctl"/>
 			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -216,7 +214,6 @@
 			<Item Name="nixlvapi.dll" Type="Document" URL="nixlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Process Incoming Frames.vi" Type="VI" URL="../Engine/SubVIs/Process Incoming Frames.vi"/>
 			<Item Name="Protection and Counter Support Engine.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Engine/Protection and Counter Support Engine.lvlib"/>
 			<Item Name="Protection and Counter Support Shared.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Shared/Protection and Counter Support Shared.lvlib"/>
 			<Item Name="Protection and Counter Support System Explorer.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/System Explorer/Protection and Counter Support System Explorer.lvlib"/>
@@ -616,7 +613,6 @@
 				<Item Name="XNET Write (State LIN Schedule Change).vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Write (State LIN Schedule Change).vi"/>
 				<Item Name="XNET Write.vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Write.vi"/>
 			</Item>
-			<Item Name="Incoming Frame Info.ctl" Type="VI" URL="../../../../Users/Public/Documents/National Instruments/NI VeriStand 2015/Projects/Delete_Test_PaC_Incoming/LabVIEW/Incoming Frame Info.ctl"/>
 			<Item Name="NationalInstruments.VeriStand.SystemStorage" Type="Document" URL="NationalInstruments.VeriStand.SystemStorage">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -626,7 +622,6 @@
 			<Item Name="nixlvapi.dll" Type="Document" URL="nixlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Process Incoming Frames.vi" Type="VI" URL="../Engine/SubVIs/Process Incoming Frames.vi"/>
 			<Item Name="Protection and Counter Support Engine.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Engine/Protection and Counter Support Engine.lvlib"/>
 			<Item Name="Protection and Counter Support Shared.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Shared/Protection and Counter Support Shared.lvlib"/>
 		</Item>
@@ -952,8 +947,6 @@
 			</Item>
 			<Item Name="Protection and Counter Support Shared.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Shared/Protection and Counter Support Shared.lvlib"/>
 			<Item Name="Protection and Counter Support Engine.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Engine/Protection and Counter Support Engine.lvlib"/>
-			<Item Name="Incoming Frame Info.ctl" Type="VI" URL="../../../../Users/Public/Documents/National Instruments/NI VeriStand 2015/Projects/Delete_Test_PaC_Incoming/LabVIEW/Incoming Frame Info.ctl"/>
-			<Item Name="Process Incoming Frames.vi" Type="VI" URL="../Engine/SubVIs/Process Incoming Frames.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Engine Release" Type="Source Distribution">
@@ -1264,7 +1257,6 @@
 				<Item Name="XNET Write (State LIN Schedule Change).vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Write (State LIN Schedule Change).vi"/>
 				<Item Name="XNET Write.vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Write.vi"/>
 			</Item>
-			<Item Name="Incoming Frame Info.ctl" Type="VI" URL="../../../../Users/Public/Documents/National Instruments/NI VeriStand 2015/Projects/Delete_Test_PaC_Incoming/LabVIEW/Incoming Frame Info.ctl"/>
 			<Item Name="NationalInstruments.VeriStand.SystemStorage" Type="Document" URL="NationalInstruments.VeriStand.SystemStorage">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1274,7 +1266,6 @@
 			<Item Name="nixlvapi.dll" Type="Document" URL="nixlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Process Incoming Frames.vi" Type="VI" URL="../Engine/SubVIs/Process Incoming Frames.vi"/>
 			<Item Name="Protection and Counter Support Engine.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Engine/Protection and Counter Support Engine.lvlib"/>
 			<Item Name="Protection and Counter Support Shared.lvlib" Type="Library" URL="../SubModules/Frame Protection Support/Source/Shared/Protection and Counter Support Shared.lvlib"/>
 		</Item>
