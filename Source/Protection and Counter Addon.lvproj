@@ -31,7 +31,6 @@
 			<Item Name="LLB Pre-Build CHM Build.vi" Type="VI" URL="../Utility/LLB Pre-Build CHM Build.vi"/>
 		</Item>
 		<Item Name="Custom Device Protection and Counter Addon.xml" Type="Document" URL="../Custom Device Protection and Counter Addon.xml"/>
-		<Item Name="Incoming Signal Info.ctl" Type="VI" URL="../SubModules/Frame Protection Support/Source/Shared/Types/Incoming Signal Info.ctl"/>
 		<Item Name="Protection and Counter Addon Engine.lvlib" Type="Library" URL="../Engine/Protection and Counter Addon Engine.lvlib"/>
 		<Item Name="Protection and Counter Addon Shared.lvlib" Type="Library" URL="../Shared/Protection and Counter Addon Shared.lvlib"/>
 		<Item Name="Protection and Counter Addon System Explorer.lvlib" Type="Library" URL="../System Explorer/Protection and Counter Addon System Explorer.lvlib"/>

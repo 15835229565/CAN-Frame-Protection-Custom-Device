@@ -49,6 +49,7 @@
 			<Item Name="Incoming Frame Variables.ctl" Type="VI" URL="../Types/Incoming Frame Variables.ctl"/>
 			<Item Name="RT Async Engine Variables.ctl" Type="VI" URL="../Types/RT Async Engine Variables.ctl"/>
 			<Item Name="RT Data References.ctl" Type="VI" URL="../Types/RT Data References.ctl"/>
+			<Item Name="RT Incoming Signal Info.ctl" Type="VI" URL="../Types/RT Incoming Signal Info.ctl"/>
 		</Item>
 	</Item>
 	<Item Name="Processes" Type="Folder">
