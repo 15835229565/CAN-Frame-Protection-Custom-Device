@@ -43,6 +43,7 @@
 			<Item Name="Initialize Generate.vi" Type="VI" URL="../SubVIs/Initialize Generate.vi"/>
 			<Item Name="Initialize Incoming.vi" Type="VI" URL="../SubVIs/Initialize Incoming.vi"/>
 			<Item Name="Process Incoming Frames.vi" Type="VI" URL="../SubVIs/Process Incoming Frames.vi"/>
+			<Item Name="Protection_Valid_Calculation.vi" Type="VI" URL="../SubVIs/Protection_Valid_Calculation.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
 			<Item Name="Incoming Frame Info.ctl" Type="VI" URL="../../../../../Users/Public/Documents/National Instruments/NI VeriStand 2015/Projects/Delete_Test_PaC_Incoming/LabVIEW/Incoming Frame Info.ctl"/>
